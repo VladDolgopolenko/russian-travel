@@ -1,3 +1,7 @@
+* {
+    outline: 1px solid white;
+}
+
 .page {
     background-color: #2a2c2f;
     width: 100%;
