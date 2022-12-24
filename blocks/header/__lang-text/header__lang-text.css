@@ -8,7 +8,14 @@
     text-align: right;
     color: #FFFFFF;
     text-decoration: none;
+    transition: opacity .3s ease;
 }
+
+
+.header__lang-text:hover {
+    opacity: .8;
+}
+
 
 @media screen and (max-width: 320px) {
     .header__lang-text {
